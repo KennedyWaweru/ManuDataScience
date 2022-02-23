@@ -1,5 +1,4 @@
 show databases;
-use denaco_training;
 SHOW TABLES;
 CREATE TABLE subcounty_population_density (
 	id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
